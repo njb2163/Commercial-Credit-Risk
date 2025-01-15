@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes commercial credit risk using machine learning models. Below is a visual representation of the project's poster:
 
-![Commercial Credit Risk Modeling Poster](poster.png)
+![Commercial Credit Risk Modeling Poster](Summer-2024-Poster.png)
 
 *Figure: Poster summarizing the project's goals, methodology, and findings.*
 
